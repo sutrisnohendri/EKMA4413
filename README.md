@@ -11,3 +11,4 @@
 # Tugas Kuliah Kelas Riset Operasi - EKMA4413
 1. Tugas ke 1 >> https://github.com/sutrisnohendri/EKMA4413/blob/main/HW1.pdf
 2. Tugas ke 2 >> https://github.com/sutrisnohendri/EKMA4413/blob/main/HW2.pdf
+3. Tugas ke 3 >> https://github.com/sutrisnohendri/EKMA4413/blob/main/HW3.pdf
