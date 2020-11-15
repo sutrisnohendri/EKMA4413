@@ -8,6 +8,7 @@
 4. Materi Sesi 4 - Catatan >> https://github.com/sutrisnohendri/EKMA4413/blob/main/Ch04_withNotes.pdf
 5. Materi Sesi 5 >> https://github.com/sutrisnohendri/EKMA4413/blob/main/Ch5.pdf
 6. Materi Sesi 6 >> https://github.com/sutrisnohendri/EKMA4413/blob/main/Ch6.pdf
+7. Materi Sesi 7 >> https://github.com/sutrisnohendri/EKMA4413/blob/main/Ch7.pdf
 
 # Tugas Kuliah Kelas Riset Operasi - EKMA4413
 1. Tugas ke 1 >> https://github.com/sutrisnohendri/EKMA4413/blob/main/HW1.pdf
